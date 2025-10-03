@@ -12,6 +12,8 @@
 <button class="btn btn-primary" @onclick="DecreaseCount">Subtraktion</button>
 
 <button class="btn btn-primary" @onclick="DivideCount">Division</button>
+<button class="btn btn-primary" @onclick="MultiplyCount">Multiplikation</button>
+
 
 @code {
     private string InputWarning = string.Empty;
@@ -39,4 +41,9 @@
         InputWarning = string.Empty;
         }
     }
+    private void MultiplyCount()
+    {
+        currentCount *= userValue;
+    }
+
 }
