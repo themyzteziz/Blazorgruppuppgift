@@ -11,6 +11,8 @@
 <button class="btn btn-primary" @onclick="IncrementCount">Addition</button>
 <button class="btn btn-primary" @onclick="DecreaseCount">Subtraktion</button>
 
+<button class="btn btn-primary" @onclick="DivideCount">Division</button>
+
 @code {
     private int userValue;
     private int currentCount = 0;
@@ -22,5 +24,9 @@
 
     private void DecreaseCount() {
         currentCount-=userValue;
+    }
+
+    private void DivideCount() {
+        currentCount/=userValue;
     }
 }
