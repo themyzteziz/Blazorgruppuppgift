@@ -1074,10 +1074,10 @@ C:\Users\Gustav\Documents\Newton\Blazorgruppuppgift\Blazor-grupp\obj\Debug\net9.
 C:\Users\Gustav\Documents\Newton\Blazorgruppuppgift\Blazor-grupp\obj\Debug\net9.0\refint\Blazor-grupp.dll
 C:\Users\Gustav\Documents\Newton\Blazorgruppuppgift\Blazor-grupp\obj\Debug\net9.0\Blazor-grupp.pdb
 C:\Users\Gustav\Documents\Newton\Blazorgruppuppgift\Blazor-grupp\obj\Debug\net9.0\ref\Blazor-grupp.dll
-C:\Users\Gustav\Documents\Newton\Blazorgruppuppgift\Blazor-grupp\bin\Debug\net9.0\wwwroot\_framework\Blazor-grupp.ao9c0fya4j.wasm
-C:\Users\Gustav\Documents\Newton\Blazorgruppuppgift\Blazor-grupp\bin\Debug\net9.0\wwwroot\_framework\Blazor-grupp.884d96gj46.pdb
-C:\Users\Gustav\Documents\Newton\Blazorgruppuppgift\Blazor-grupp\bin\Debug\net9.0\wwwroot\_framework\Blazor-grupp.ao9c0fya4j.wasm.gz
-C:\Users\Gustav\Documents\Newton\Blazorgruppuppgift\Blazor-grupp\bin\Debug\net9.0\wwwroot\_framework\Blazor-grupp.884d96gj46.pdb.gz
-C:\Users\Gustav\Documents\Newton\Blazorgruppuppgift\Blazor-grupp\obj\Debug\net9.0\compressed\zw6klt5crt-ao9c0fya4j.gz
-C:\Users\Gustav\Documents\Newton\Blazorgruppuppgift\Blazor-grupp\obj\Debug\net9.0\compressed\77g1wlm8c9-884d96gj46.gz
-C:\Users\Gustav\Documents\Newton\Blazorgruppuppgift\Blazor-grupp\obj\Debug\net9.0\compressed\hiw1ledhy5-1soxqmy19a.gz
+C:\Users\Gustav\Documents\Newton\Blazorgruppuppgift\Blazor-grupp\bin\Debug\net9.0\wwwroot\_framework\Blazor-grupp.ybn9q0menk.wasm
+C:\Users\Gustav\Documents\Newton\Blazorgruppuppgift\Blazor-grupp\bin\Debug\net9.0\wwwroot\_framework\Blazor-grupp.s5h1akavho.pdb
+C:\Users\Gustav\Documents\Newton\Blazorgruppuppgift\Blazor-grupp\bin\Debug\net9.0\wwwroot\_framework\Blazor-grupp.ybn9q0menk.wasm.gz
+C:\Users\Gustav\Documents\Newton\Blazorgruppuppgift\Blazor-grupp\bin\Debug\net9.0\wwwroot\_framework\Blazor-grupp.s5h1akavho.pdb.gz
+C:\Users\Gustav\Documents\Newton\Blazorgruppuppgift\Blazor-grupp\obj\Debug\net9.0\compressed\zw6klt5crt-ybn9q0menk.gz
+C:\Users\Gustav\Documents\Newton\Blazorgruppuppgift\Blazor-grupp\obj\Debug\net9.0\compressed\77g1wlm8c9-s5h1akavho.gz
+C:\Users\Gustav\Documents\Newton\Blazorgruppuppgift\Blazor-grupp\obj\Debug\net9.0\compressed\hiw1ledhy5-buna78r2k3.gz
